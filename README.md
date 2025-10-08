@@ -81,6 +81,9 @@ MIT
 
 ---
 
+相关内容：
+[如何使用RSS订阅播客](https://github.com/zzjcool/rssyes.com/blob/main/using_rss.md)
+
 <div align="center">
   <sub>用心打造的 RSS 订阅服务 ❤️</sub>
 </div>
