@@ -1,70 +1,68 @@
 # RSSYES
 
-> 🎧 专业的 RSS 订阅聚合服务，让优质内容触手可及
+> 🎧 将 YouTube 变成你的播客电台 | 专业的 RSS 订阅生成服务
 
 [![Website](https://img.shields.io/badge/Website-rssyes.com-blue)](https://rssyes.com)
 
 ## ✨ 简介
 
-RSSYES 是一个专注于 YouTube 内容聚合的 RSS 订阅服务，将视频内容转化为更便捷的消费形式。无论是通勤路上还是工作间隙，都能轻松获取你关注的优质内容。
+RSSYES 是一个专注于 YouTube 内容聚合的 RSS 订阅服务。它可以将 YouTube 视频频道转化为标准的播客（Podcast）RSS 源，让你在通勤路上或工作间隙，通过泛用型播客客户端（如小宇宙、Apple Podcasts）后台收听优质内容。
 
-🌐 访问网站：[https://rssyes.com](https://rssyes.com)
+🌐 **访问网站：** [https://rssyes.com](https://rssyes.com)
 
 ---
 
-## 🎯 核心功能
+## 🚀 最新功能 (New)
 
-### 📹 YouTube 视频播客
+### 🛠️ 自助转换任意频道
+不再受限于精选列表！现在你可以将**任意**你喜欢的 YouTube 频道转换为播客订阅源。
+
+- **全自动化**：输入频道 URL，即刻生成 RSS。
+- **隐私友好**：生成的订阅源由你独享，适合收听小众或私密内容。
+- **立即体验**：👉 [https://rssyes.com/youtube-to-podcast](https://rssyes.com/youtube-to-podcast)
+
+---
+
+## 🎯 核心能力
+
+### 📹 YouTube 转播客体验
 
 #### 🎵 视频转音频
-- 自动获取 YouTube 频道最新视频
-- 一键转换为高质量音频文件
-- 支持后台播放，解放双眼
+- 自动抓取 YouTube 频道更新
+- 转换为高质量音频文件，节省流量
+- 支持后台锁屏播放，解放双眼
 
-#### 🧠 智能思维导图生成
+#### 🧠 智能思维导图（AI Summary）
 - 自动提取视频核心内容
-- 生成结构化思维导图
+- 生成结构化思维导图，听之前先看重点
 - **支持无字幕视频**智能识别
 
-#### 📡 灵活的 RSS 订阅
-
-支持多维度内容过滤，打造个性化订阅体验：
-
+#### 📡 灵活的 RSS 过滤器
+支持多维度内容过滤，打造纯净的订阅体验：
 - ⏰ **时间范围筛选** - 只获取特定时间段的内容
-- ✅ **指定频道** - 订阅你感兴趣的频道
-- ❌ **排除频道** - 过滤不想看到的内容
+- ✅ **包含/排除关键字** - 过滤不想看到的内容
+- 🔗 **定制工具**：[https://rssyes.com/rss-generator](https://rssyes.com/rss-generator)
 
-#### 🔗 一键生成订阅链接
-快速创建符合你需求的专属 RSS 订阅链接：[https://rssyes.com/rss-generator](https://rssyes.com/rss-generator)
-
-#### 📚 频道目录
-浏览所有已收录的 YouTube 频道：[https://rssyes.com/youtube](https://rssyes.com/youtube)
+#### 📚 精选频道目录
+如果你不知道听什么，可以浏览我们在首页人工精选的优质频道库（涵盖访谈、科技、财经等）：
+👉 [https://rssyes.com/youtube](https://rssyes.com/youtube)
 
 ---
 
 ## ❓ 常见问题
 
-### 为什么不支持任意 YouTube 频道？
+### Q: 我想听的频道不在首页列表中怎么办？
+**A:** 现在你可以自助转换了！
+请直接访问 [YouTube 转播客工具](https://rssyes.com/youtube-to-podcast)，输入频道链接即可生成。
 
-**两个主要原因：**
+### Q: 首页的“精选频道”和“自助转换”有什么区别？
+- **精选频道**：由我们人工筛选并收录的优质内容，会在首页公开展示，适合探索新内容。
+- **自助转换**：适合你有明确想听的目标频道，或者内容比较小众/私密，不想公开展示的情况。
 
-1. **资源成本** - 作为独立项目，服务器和带宽资源有限
-2. **内容质量** - 并非所有视频内容都适合转换为音频播客形式
-
-因此，我们采用**人工审核**的方式精选频道，确保收录的内容真正适合音频收听。
-
-### 我想收听的频道不在列表中怎么办？
-
-我们欢迎社区推荐！有两种方式：
-
-- 📝 在本仓库提交 [Issue](../../issues/new) 推荐频道
-- 📧 发送邮件至 [email@zzj.cool](mailto:email@zzj.cool)
-
-**请在推荐时说明：**
-- 频道链接
-- 推荐理由（为什么适合做音频播客）
-
-审核通过后，频道将会被添加到服务中 ✅
+### Q: 我发现了一个非常棒的频道，想推荐上首页？
+欢迎社区共建！如果该频道质量很高，适合大众收听：
+- 📝 在本仓库提交 [Issue](../../issues/new) 推荐
+- 📧 或发送邮件至 [email@zzj.cool](mailto:email@zzj.cool)
 
 ---
 
@@ -81,9 +79,9 @@ MIT
 
 ---
 
-相关内容：
-[如何使用RSS订阅播客](https://github.com/zzjcool/rssyes.com/blob/main/using_rss.md)
+相关教程：
+[如何使用 RSS 订阅播客](https://github.com/zzjcool/rssyes.com/blob/main/using_rss.md)
 
 <div align="center">
-  <sub>用心打造的 RSS 订阅服务 ❤️</sub>
+  <sub>Made with ❤️ by RSSYES Team</sub>
 </div>
